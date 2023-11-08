@@ -33,8 +33,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+```
+ Name: G.Chethan Kumar
+ Register Number: 212222240022
+```
+![img4](https://github.com/Gchethankumar/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118348224/aaa783a7-4535-41e2-b38d-b3c4f6f9e564)
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
